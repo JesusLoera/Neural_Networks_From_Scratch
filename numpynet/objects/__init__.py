@@ -1,1 +1,1 @@
-from numpynet.objects.layers.Linear import Linear
+from numpynet.objects.layers import Linear
